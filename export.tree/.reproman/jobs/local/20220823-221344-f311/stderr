@@ -1,0 +1,11 @@
+WARNING (08/24/22 07:32:25): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4757355.hostlist.JkTFP4hD to get hosts
+starting job on c179-203
+starting job on c179-213
+starting job on c182-063
+starting job on c182-094
+Warning: Permanently added 'c182-063' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c179-213' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c182-094' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c179-203' (ED25519) to the list of known hosts.
+slurmstepd: error: *** JOB 4757355 ON c179-203 CANCELLED AT 2022-08-24T09:31:33 ***
